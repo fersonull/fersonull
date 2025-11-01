@@ -51,7 +51,7 @@
   <a href="https://github.com/fersonull">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:fersonull@example.com">
+  <a href="mailto:jasferplusplus@gmail.com">
     <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
