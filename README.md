@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=fersonull&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=fersonull&hide_border=true&theme=transparent" />
+  <img height="150" src="https://streak-stats.demolab.com?user=fersonull&hide_border=true&theme=transparent" />
 </p>
 
 ---
